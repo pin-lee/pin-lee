@@ -1,24 +1,30 @@
-# <center>About Me</center>
+<h1 align="center">About Me</h1>
 
-## Bio 
+<p align="center">Hello, I'm <b>B "Pin" Lee</b>, a self-taught computer programmer and Computer Science student.</p>
 
-I'm B "Pin" Lee, a self-taught computer programmer and Computer Science student.
+<blockquote><i>
+I have a passion for learning and am always eager to acquire new skills and technologies. 
+I believe in leveraging powerful technologies to engineer clean, performant, and maintainable solutions.
+</blockquote></i>
 
-I have a passion for learning, and I am always happy to learn new skills and technologies. 
-I believe in leveraging powerful technologies to engineer clean, performant, maintainable solutions.
+<h3>Interests</h3>
 
-I'm interested in systems programming and the creation of cohesive embedded systems that utilize 
-mathematical algorithms and models, such as behavior-based systems and machine learning, to help people.
+- Systems programming
+- Creation and orchestration of macroscopic embedded systems
+- Application of mathematical algorithms and models (behavior-based systems & machine learning).
 
-I typically build general applications to serve the communities of which I am a part of.
-I am a moderator of the [Raspberry Pie Discord server](https://discord.gg/HRPsqw3bpF), the largest
-Raspberry Pi<sup>1</sup> community on Discord.
+<h3>Community Involvement</h3>
 
-I also enjoy participating in game jams and other such community programming events.
+- Building general applications to serve my communities.
+- Moderating the [Raspberry Pie Discord server](https://discord.gg/HRPsqw3bpF), the largest Raspberry Pi-centered community on Discord. 
+- Volunteering to help with 3d printing, teaching coding, and hosting game servers for my local library.
+- Participating in game jams and hackathons.
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
-### Familiar
+<table align="center">
+<tr><th>Familiar</th><th>Learning</th><th>Language Stats</th></tr>
+<tr><td>
 
 - Java 8 and upwards
 - C 89
@@ -26,46 +32,36 @@ I also enjoy participating in game jams and other such community programming eve
 - Linux
 - Git
 - Raspberry Pi
-
-### Learning
+- HTML & Markdown
+</td><td>
 
 - C++ 17
 - Rust
 - TypeScript
 - Dart 2
-- CSS
 - C#
 - Microsoft Visual Studio
 - Docker
+</td><td>
 
-## Projects
+[![Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pin-lee&theme=nord&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+</td></tr></table>
 
-- Dilettante: A FOSS library for collecting information about the client. (TypeScript)
-- The Raspberry Pie server's utility Discord bot. (Java)
-- A utility to calculate the duration of your hold on a library book. (Python & HTML)
-- A federatable, end-to-end encrypted chat program using GPG. (Rust)
-- table-rs: A CLI app to help with chemistry. (Rust)
-- A Raspberry Pi laser turret with a remote camera. (Python)
-- Helping to maintain the Snail Racing Discord game. (Java)
+<h2 align="center">Projects</h2>
 
+<table align="center">
+<tr><th>Name</th><th>Description></th><th>Language and Stack</th></tr>
+<tr><td>Dilettante</td><td>A FOSS library for collecting information about the client.</td><td>TypeScript (JavaScript)</tr>
+<tr><td>RPieModMail</td><td>The Raspberry Pie server's utility Discord bot.</td><td>Java (JDA)</tr>
+<tr><td>Hold-Wait-Time</td><td>A utility to calculate the duration of your hold on a library book.</td><td>Python (Flask) & HTML</tr>
+<tr><td>ACE</td><td>A federatable, end-to-end encrypted chat program using GPG.</td><td>Rust (ActixWeb, GPGME, SQLX)</tr>
+<tr><td>table-rs</td><td>A CLI app to help with chemistry.</td><td>Rust & Python</tr>
+<tr><td>Laser Turret</td><td>A Raspberry Pi laser turret with a remote camera.</td><td>Python (gpiozero, guizero)</tr>
+<tr><td>Snail Racing</td><td>Helping to maintain the Snail Racing Discord game.</td><td>Java (JDA, MongoDB, MariaDB, SQL)</tr>
+</table>
 
-You can see some of my projects in action on [my website](https://anarchist.engineer/).
+<p align="center">You can see some of my projects in action on <a href="https://anarchist.engineer/">my website</a>.</p>
 
 ## Contact Information
 - Telegram: `@anarchistengineer`
-- Discord `anarchist.engineer`
-
-## Other Skills and Hobbies
-
-- Building electronics
-- Home-chemistry
-- Teaching
-- Playing the cello
-- Cooking
-- Reading
-- Playing games (video and tabletop) with friends and family
-- Listening to music
-
-## Addendum
-
-1. This online community is not affiliated with the Raspberry Pi Foundation.
+- Discord: `anarchist.engineer`
