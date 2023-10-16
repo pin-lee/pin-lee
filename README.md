@@ -39,9 +39,6 @@ I believe in leveraging powerful technologies to engineer clean, performant, and
 - RayLib
 - OpenCL
 - Rust
-- TypeScript
-- Dart 2
-- C#
 - Microsoft Visual Studio
 - IntelliJ IDEA and CLion
 - Docker
