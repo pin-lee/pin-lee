@@ -26,8 +26,8 @@ I believe in leveraging powerful technologies to engineer clean, performant, and
 <tr><th>Familiar</th><th>Learning</th><th>Language Stats</th></tr>
 <tr><td>
 
-- Java 8 and upwards
-- C 89
+- Java
+- C
 - Python 3
 - Linux
 - Git
@@ -36,11 +36,14 @@ I believe in leveraging powerful technologies to engineer clean, performant, and
 </td><td>
 
 - C++ 17
+- RayLib
+- OpenCL
 - Rust
 - TypeScript
 - Dart 2
 - C#
 - Microsoft Visual Studio
+- IntelliJ IDEA and CLion
 - Docker
 </td><td>
 
@@ -50,7 +53,7 @@ I believe in leveraging powerful technologies to engineer clean, performant, and
 <h2 align="center">Projects</h2>
 
 <table align="center">
-<tr><th>Name</th><th>Description></th><th>Language and Stack</th></tr>
+<tr><th>Name</th><th>Description</th><th>Language and Stack</th></tr>
 <tr><td>Dilettante</td><td>A FOSS library for collecting information about the client.</td><td>TypeScript (JavaScript)</tr>
 <tr><td>RPieModMail</td><td>The Raspberry Pie server's utility Discord bot.</td><td>Java (JDA)</tr>
 <tr><td>Hold-Wait-Time</td><td>A utility to calculate the duration of your hold on a library book.</td><td>Python (Flask) & HTML</tr>
@@ -60,8 +63,8 @@ I believe in leveraging powerful technologies to engineer clean, performant, and
 <tr><td>Snail Racing</td><td>Helping to maintain the Snail Racing Discord game.</td><td>Java (JDA, MongoDB, MariaDB, SQL)</tr>
 </table>
 
-<p align="center">You can see some of my projects in action on <a href="https://anarchist.engineer/">my website</a>.</p>
+<p align="center">You can see some of my projects in action on <a href="https://furdev.net/">my website</a>.</p>
 
 ## Contact Information
-- Telegram: `@anarchistengineer`
-- Discord: `anarchist.engineer`
+- Telegram: `@fur_dev`
+- Discord: `furdev`
